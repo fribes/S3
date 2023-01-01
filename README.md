@@ -119,6 +119,7 @@ attention à l'entretien si loué à un particulier.
 Privilégier les structures (loueur)
 
 Mobi dick Hendaye à consulter
+Skip cool capbreton
 
 ### Skipper 
 
