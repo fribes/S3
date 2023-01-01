@@ -10,7 +10,7 @@ Un surf trip à la voile, au départ de Capbreton ou Hendaye à destination de C
 
 Puisque cela n'existe pas, c'est peut être l'occasion de le créer, d'autres ont bien relancé la marine marchande à la voile : [grain de sail](https://graindesail.com/fr/content/14-notre-voilier-cargo-grain-de-sail)
 
-## La philosopĥie
+## La philosophie
 
 Plutôt que de courir après le temps, l'idée est de prendre le temps. 
 "le Papalagui a inventé un objet qui compte le temps ; depuis il court sans cesse derrière"  Touiavii (début XXiem siècle)
@@ -31,9 +31,15 @@ La navigation apporte son lot d'aléas : météo, avaries, ... mais en contre pa
 
 ### type
 
+Voilier habitable 6 à 8 pers
+
 ### taille
 
-nombre de planche / surfeur
+40 pieds (12,2m)
+
+
+nombre de planche / surfeur ?
+(à stocker avec housse sur le bastinguage)
 
 
 ### Equipage
@@ -44,12 +50,19 @@ nombre de planche / surfeur
 ## La période
 
 ### idéal pour le surf
+Sur la zone canaries : avant Mai pour plus de houle
+Sur la zone acores : peu importe
 
 ### ideal pour la navigation
+Pour dégolfer facilement : mois de Mai
 
 ### compromis
 
+mois de Mai ?
+
 ## La feuille de route
+
+Compter 150 miles / jour (24 de navigation)
 
 ### Cabotage
 Pour éviter une navigation longue et faciliter les ravitaillement, des escales régulières:
@@ -64,9 +77,20 @@ Avec session de surf chaque fois que les conditions sont là.
 Navigation de nuit ? 
 - barreur + 1 équipier 
 
+Rijon, Santander
+
+correspondance spot de surf <-> mouillage sûr à établir
+
+
 ### Destination
 
 Les canaries si possible, le Maroc sinon ?
+
+Les Acores ?
+
+Tourisme 2018 : 
+- acores 1,5M
+- canaries : 13M
 
 ## La durée
 L'équipage du Mector (Lords of the Ocean) a mis environ 10j de Brest à Lanzarotte
@@ -79,11 +103,74 @@ Options plus courtes :
 
 ou improvistion totale ;-)
 
+Retour des canaries plus long que l'aller !
+
+Acores symétrique: 10j
+
 ## Le coût
+
+Prix dégressif sur longue durée
+
+### Voilier
+
+1500 à 2000€ la semaine
+
+attention à l'entretien si loué à un particulier.
+Privilégier les structures (loueur)
+
+Mobi dick Hendaye à consulter
+
+### Skipper 
+
+250€ par jour
+
+
+### Ravitaillement
+
+Pas plus qu'à la maison ? => 6€/j/pers (sur base Nath et moi, peu de viande, peu d'alcool)  
+
+15€/j/pers ?
+
+On prend tout le sec au départ, le frais au fur et à mesure
+
+### Ports
+
+50€ par jour
+
+### Fourchette haute
+
+voilier 2000x4 = 8000
+skipper 250x30 = 7500
+ports   50x10  = 500
+
+bouffe6  6x30x15 = 2700
+bouffe8  8x30x15 = 3600
+
+18000 / 6 = 3000€ / pers
+
+20000 / 8 = 2500€ / pers
+
+### Fourchette basse
+
+voilier 1500x4 = 6000
+skipper 150x30 = 4500
+ports   50x10  = 500
+
+
+bouffe6  6x30x15 = 2700
+bouffe8  8x30x15 = 3600
+
+14000 / 6 =  2350 € / pers
+16000 / 8 =  2000 € / pers
+
 
 ## Aspects légaux
 
 ### Assistance rapatriement
+Chaque participant voir pour lui
+
+### Assistance voilier
+Incluse dans la location (à condition de rester dans la zone de navigation)
 
 ## Options
 
