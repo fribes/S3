@@ -118,7 +118,8 @@ Prix dégressif sur longue durée
 attention à l'entretien si loué à un particulier.
 Privilégier les structures (loueur)
 
-Mobi dick Hendaye à consulter
+Mobi dick Hendaye à consulter : zone de nav limitée (cote espagnole)
+
 Skip cool capbreton
 
 ### Skipper 
@@ -140,35 +141,41 @@ On prend tout le sec au départ, le frais au fur et à mesure
 
 ### Fourchette haute
 
-voilier 2000x4 = 8000
-skipper 250x30 = 7500
-ports   50x10  = 500
+- voilier 2000x4 = 8000
+- skipper 250x30 = 7500
+- ports   50x10  = 500
 
-bouffe6  6x30x15 = 2700
-bouffe8  8x30x15 = 3600
+- bouffe6  6x30x15 = 2700
+- bouffe8  8x30x15 = 3600
 
-18000 / 6 = 3000€ / pers
+- 18000 / 6 = 3000€ / pers
 
-20000 / 8 = 2500€ / pers
+- 20000 / 8 = 2500€ / pers
 
 ### Fourchette basse
 
-voilier 1500x4 = 6000
-skipper 150x30 = 4500
-ports   50x10  = 500
+- voilier 1500x4 = 6000
+- skipper 150x30 = 4500
+- ports   50x10  = 500
 
+- bouffe6  6x30x15 = 2700
+- bouffe8  8x30x15 = 3600
 
-bouffe6  6x30x15 = 2700
-bouffe8  8x30x15 = 3600
+- 14000 / 6 =  2350 € / pers
+- 16000 / 8 =  2000 € / pers
 
-14000 / 6 =  2350 € / pers
-16000 / 8 =  2000 € / pers
+## Surfing
 
+### Temp eau en mai
+
+Acores : 17°C
+Canaries: 19°C
+[source](https://www.cabaigne.net)
 
 ## Aspects légaux
 
 ### Assistance rapatriement
-Chaque participant voir pour lui
+Chaque participant voit pour lui
 
 ### Assistance voilier
 Incluse dans la location (à condition de rester dans la zone de navigation)
@@ -180,4 +187,21 @@ Incluse dans la location (à condition de rester dans la zone de navigation)
 ### Communication 
 - blog
 - page FB
+
+## Location
+
+### vogavecmoi 
+(joseph connait)
+
+### samboat
+- dériveur 7,32m avec skipper à arcachon
+- BAJUCOLOU 10,6m à la Rochelle 6 pers. 6400€ (mois de mai) 
+- aux sables d'olonne Arthur  Bénéteau Oceanis 38.1 - 2022  6800€ (mois de mai) + 800€ annexe
+https://www.samboat.fr/location-bateau/port-olona/voilier/130445
+
+### clicknboat
+
+collab avec surf session (ile d'ieux)
+
+
 
