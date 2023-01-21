@@ -204,4 +204,20 @@ https://www.samboat.fr/location-bateau/port-olona/voilier/130445
 collab avec surf session (ile d'ieux)
 
 
+### Matthieu
+
+groupe whatsapp voile2023 15pers.
++ Francois Daviot (habitué Acores)
+
+JF Couture Dufour 44"
+retour Hendaye 2-3 ans 
+
+Option La Corogne
+
+La voiture en loc ? pour trouver le spot
+
+crique mouillage != crique surfing
+
+ambiance à bord : danger météo, danger cuisinie
+
 
